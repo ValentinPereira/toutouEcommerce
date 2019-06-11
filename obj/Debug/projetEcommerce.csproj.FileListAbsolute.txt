@@ -1,0 +1,115 @@
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\projetEcommerce.dll.config
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\projetEcommerce.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\projetEcommerce.pdb
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\csc.exe
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\csc.exe.config
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\csc.rsp
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\csi.exe
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\csi.exe.config
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\csi.rsp
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.AppContext.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Console.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.IO.Compression.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.IO.Pipes.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Security.Claims.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.ValueTuple.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Xml.XPath.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\vbc.exe
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\vbc.exe.config
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\vbc.rsp
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\VBCSCompiler.exe
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\obj\Debug\projetEcommerce.csprojAssemblyReference.cache
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\obj\Debug\projetEcommerce.csproj.CoreCompileInputs.cache
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\obj\Debug\projetEcommerce.csproj.CopyComplete
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\obj\Debug\projetEcommerce.dll
+C:\www\module 2\partie 4\projetEcommerce\projetEcommerce\obj\Debug\projetEcommerce.pdb
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\projetEcommerce.dll.config
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\projetEcommerce.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\projetEcommerce.pdb
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\obj\Debug\projetEcommerce.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\obj\Debug\projetEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\obj\Debug\projetEcommerce.csproj.CopyComplete
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\obj\Debug\projetEcommerce.dll
+C:\Users\Dell\source\repos\projet3\toutpourletoutou\toutpourletoutou\projetEcommerce\obj\Debug\projetEcommerce.pdb
